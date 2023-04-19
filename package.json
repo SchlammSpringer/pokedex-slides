@@ -8,12 +8,10 @@
   },
   "dependencies": {
     "@slidev/cli": "^0.40.13",
-    "@slidev/theme-default": "^0.21.2",
-    "slidev-theme-penguin": "^1.6.1",
-    "vite-svg-loader": "^4.0.0"
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "^0.21.2"
   },
   "devDependencies": {
-    "@iconify-json/logos": "^1.1.25",
-    "sass": "^1.62.0"
+    "@iconify-json/logos": "^1.1.25"
   }
 }

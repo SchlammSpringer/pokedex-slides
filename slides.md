@@ -1,23 +1,15 @@
 ---
-theme: penguin
-colorSchema: light
+theme: apple-basic
 layout: intro
-# https://sli.dev/custom/highlighters.html
 highlighter: shiki
-css: unocss
 ---
-<style>
-   :root {
-      --slidev-controls-foreground: black !important;
-      --slidev-slide-container-background: transparent !important;
-    }
-</style>
+
 # Pokedex in [SvelteKit](https://kit.svelte.dev/) as classic full stack application
 
 - used for Apple Music & NY Times
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## Quickstart
@@ -29,7 +21,7 @@ cd my-skeleton-app
 ```
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## Svelte - a compiler not a framework
@@ -41,7 +33,7 @@ layout: new-section
 > up and running with an interactive TodoMVC.
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### Memory allocation in MBs ± 95% confidence interval - ([Krausest](https://github.com/krausest/js-framework-benchmark))
@@ -54,7 +46,7 @@ layout: new-section
 | geometric mean of all factors in the table | 1.39             | 1.90             | 2.46             | 2.55             |
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## The 'KIT' Part - fullstack by convention
@@ -89,7 +81,7 @@ my-project/
 ```
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### File types
@@ -99,43 +91,43 @@ layout: new-section
 - `+page.server.ts` Server side data load
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## Backend with [Vercel](https://www.vercel.com) and [Supabase](https://supabase.com/)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### [Incremental Static Regeneration](https://vercel.com/docs/concepts/incremental-static-regeneration/overview)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### [Vercel Image Optimization](https://vercel.com/docs/concepts/image-optimization)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### [Vercel Edge Network](https://vercel.com/docs/concepts/edge-network/overview)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## Frontend with dynamic server side rendering (SSR)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### State / routing with query params
@@ -143,43 +135,43 @@ layout: new-section
 ?type
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### [Skeleton](https://www.skeleton.dev/) for nice UI
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### reactive searching / filtering for Pokemons
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## [Vitest](https://vitest.dev/)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### [Vitest UI](https://vitest.dev/guide/ui.html)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### [Testing Library](https://testing-library.com/)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ### [fast-check property based testing](https://github.com/dubzzz/fast-check)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## Green IT - it's all about resources
@@ -193,7 +185,7 @@ layout: new-section
 - Developers become more efficient & faster
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## Alternatives
@@ -204,7 +196,7 @@ layout: new-section
 - [GatsbyJs](https://www.gatsbyjs.com/)
 
 ---
-layout: new-section
+layout: section
 ---
 
 ## Credits
