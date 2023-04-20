@@ -1,20 +1,18 @@
 ---
-theme: light-icons
+theme: apple-basic
 layout: intro
 highlighter: shiki
-image: 'https://unsplash.com/photos/--b01C5Tqtc/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTczMDMy&force=true&w=1920'
 ---
 
-# Sveltekit - the backend framework for Svelte
+# Pokedex in [SvelteKit](https://kit.svelte.dev/) as classic full stack application
+
+- used for Apple Music & NY Times
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# Quickstart
+## Quickstart
 
 ```
 npm create skeleton-app@latest my-skeleton-app
@@ -23,13 +21,10 @@ cd my-skeleton-app
 ```
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# Svelte - a compiler not a framework
+## Svelte - a compiler not a framework
 
 > a React component is typically around 40% larger
 
@@ -38,13 +33,10 @@ left: false
 > up and running with an interactive TodoMVC.
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# Memory allocation in MBs ± 95% confidence interval - ([Krausest](https://github.com/krausest/js-framework-benchmark))
+### Memory allocation in MBs ± 95% confidence interval - ([Krausest](https://github.com/krausest/js-framework-benchmark))
 
 | Name                                       | svelte-v3.50.1   | vue-v3.2.47      | react-v18.2.0    | angular-v15.0.1  |
 |--------------------------------------------|------------------|------------------|------------------|------------------|
@@ -54,22 +46,14 @@ left: false
 | geometric mean of all factors in the table | 1.39             | 1.90             | 2.46             | 2.55             |
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# The 'KIT' Part - fullstack by convention
+## The 'KIT' Part - fullstack by convention
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
----
 
-# Project structure
+### Project structure
 
 ```bash
 my-project/
@@ -97,145 +81,100 @@ my-project/
 ```
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# File types
+### File types
 
 - `+page.svelte` Svelte Component for this route
 - `+page.ts` Client side data load
 - `+page.server.ts` Server side data load
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# Backend with [Vercel](https://www.vercel.com) and [Supabase](https://supabase.com/)
+## Backend with [Vercel](https://www.vercel.com) and [Supabase](https://supabase.com/)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [Incremental Static Regeneration](https://vercel.com/docs/concepts/incremental-static-regeneration/overview)
+### [Incremental Static Regeneration](https://vercel.com/docs/concepts/incremental-static-regeneration/overview)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [Vercel Image Optimization](https://vercel.com/docs/concepts/image-optimization)
+### [Vercel Image Optimization](https://vercel.com/docs/concepts/image-optimization)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
+### [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [Vercel Edge Network](https://vercel.com/docs/concepts/edge-network/overview)
+### [Vercel Edge Network](https://vercel.com/docs/concepts/edge-network/overview)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# Frontend with dynamic server side rendering (SSR)
+## Frontend with dynamic server side rendering (SSR)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# State / routing with query params
+### State / routing with query params
 
 ?type
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [Skeleton](https://www.skeleton.dev/) for nice UI
+### [Skeleton](https://www.skeleton.dev/) for nice UI
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# reactive searching / filtering for Pokemons
+### reactive searching / filtering for Pokemons
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [Vitest](https://vitest.dev/)
+## [Vitest](https://vitest.dev/)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [Vitest UI](https://vitest.dev/guide/ui.html)
+### [Vitest UI](https://vitest.dev/guide/ui.html)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [Testing Library](https://testing-library.com/)
+### [Testing Library](https://testing-library.com/)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# [fast-check property based testing](https://github.com/dubzzz/fast-check)
+### [fast-check property based testing](https://github.com/dubzzz/fast-check)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# Green IT - it's all about resources
+## Green IT - it's all about resources
 
 - less code
 - less memory
@@ -246,13 +185,10 @@ left: false
 - Developers become more efficient & faster
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# Alternatives
+## Alternatives
 
 - [SolidStart](https://start.solidjs.com)
 - [NextJs](https://nextjs.org)
@@ -260,13 +196,10 @@ left: false
 - [GatsbyJs](https://www.gatsbyjs.com/)
 
 ---
-layout: dynamic-image
-image: 'https://images.unsplash.com/photo-1499019963077-ab9127ab9596?&w=1920&q=80'
-equal: false
-left: false
+layout: section
 ---
 
-# Credits
+## Credits
 
 - [SVELTE](https://svelte.dev/)
 - [SVELTEKIT](https://kit.svelte.dev/)
@@ -279,7 +212,6 @@ left: false
 - [PokeAPI](https://pokeapi.co/)
 - [Youtube @Huntabyte](https://www.youtube.com/@Huntabyte)
 - [Youtube @jmagrippis](https://www.youtube.com/@jmagrippis)
-- [Youtube @JoyofCodeDev](https://www.youtube.com/watch?v=VizuTy3uSNE&t=562s)
 
 ---
 layout: end
