@@ -9,7 +9,8 @@
   "dependencies": {
     "@slidev/cli": "^0.40.13",
     "@slidev/theme-apple-basic": "^0.20.0",
-    "@slidev/theme-default": "^0.21.2"
+    "@slidev/theme-default": "^0.21.2",
+    "slidev-theme-the-unnamed": "^0.0.10"
   },
   "devDependencies": {
     "@iconify-json/logos": "^1.1.25"

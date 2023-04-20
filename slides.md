@@ -1,18 +1,17 @@
 ---
-theme: apple-basic
-layout: intro
+theme: the-unnamed
+layout: cover
 highlighter: shiki
 ---
 
-# Pokedex in [SvelteKit](https://kit.svelte.dev/) as classic full stack application
-
-- used for Apple Music & NY Times
+# [SvelteKit](https://kit.svelte.dev/) the backend framework for svelte
 
 ---
-layout: section
+layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
-## Quickstart
+# Quickstart
 
 ```
 npm create skeleton-app@latest my-skeleton-app
@@ -21,10 +20,10 @@ cd my-skeleton-app
 ```
 
 ---
-layout: section
+layout: default
 ---
 
-## Svelte - a compiler not a framework
+# Svelte - a compiler not a framework
 
 > a React component is typically around 40% larger
 
@@ -33,10 +32,10 @@ layout: section
 > up and running with an interactive TodoMVC.
 
 ---
-layout: section
+layout: default
 ---
 
-### Memory allocation in MBs ± 95% confidence interval - ([Krausest](https://github.com/krausest/js-framework-benchmark))
+# Memory allocation in MBs ± 95% confidence interval - ([Krausest](https://github.com/krausest/js-framework-benchmark))
 
 | Name                                       | svelte-v3.50.1   | vue-v3.2.47      | react-v18.2.0    | angular-v15.0.1  |
 |--------------------------------------------|------------------|------------------|------------------|------------------|
@@ -46,14 +45,14 @@ layout: section
 | geometric mean of all factors in the table | 1.39             | 1.90             | 2.46             | 2.55             |
 
 ---
-layout: section
+layout: default
 ---
 
-## The 'KIT' Part - fullstack by convention
+# The 'KIT' Part - fullstack by convention
 
 ---
 
-### Project structure
+# Project structure
 
 ```bash
 my-project/
@@ -81,100 +80,100 @@ my-project/
 ```
 
 ---
-layout: section
+layout: default
 ---
 
-### File types
+# File types
 
 - `+page.svelte` Svelte Component for this route
 - `+page.ts` Client side data load
 - `+page.server.ts` Server side data load
 
 ---
-layout: section
+layout: default
 ---
 
-## Backend with [Vercel](https://www.vercel.com) and [Supabase](https://supabase.com/)
+# Backend with [Vercel](https://www.vercel.com) and [Supabase](https://supabase.com/)
 
 ---
-layout: section
+layout: default
 ---
 
-### [Incremental Static Regeneration](https://vercel.com/docs/concepts/incremental-static-regeneration/overview)
+# [Incremental Static Regeneration](https://vercel.com/docs/concepts/incremental-static-regeneration/overview)
 
 ---
-layout: section
+layout: default
 ---
 
-### [Vercel Image Optimization](https://vercel.com/docs/concepts/image-optimization)
+# [Vercel Image Optimization](https://vercel.com/docs/concepts/image-optimization)
 
 ---
-layout: section
+layout: default
 ---
 
-### [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
+# [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
 
 ---
-layout: section
+layout: default
 ---
 
-### [Vercel Edge Network](https://vercel.com/docs/concepts/edge-network/overview)
+# [Vercel Edge Network](https://vercel.com/docs/concepts/edge-network/overview)
 
 ---
-layout: section
+layout: default
 ---
 
-## Frontend with dynamic server side rendering (SSR)
+# Frontend with dynamic server side rendering (SSR)
 
 ---
-layout: section
+layout: default
 ---
 
-### State / routing with query params
+# State / routing with query params
 
 ?type
 
 ---
-layout: section
+layout: default
 ---
 
-### [Skeleton](https://www.skeleton.dev/) for nice UI
+# [Skeleton](https://www.skeleton.dev/) for nice UI
 
 ---
-layout: section
+layout: default
 ---
 
-### reactive searching / filtering for Pokemons
+# reactive searching / filtering for Pokemons
 
 ---
-layout: section
+layout: default
 ---
 
-## [Vitest](https://vitest.dev/)
+# [Vitest](https://vitest.dev/)
 
 ---
-layout: section
+layout: default
 ---
 
-### [Vitest UI](https://vitest.dev/guide/ui.html)
+# [Vitest UI](https://vitest.dev/guide/ui.html)
 
 ---
-layout: section
+layout: default
 ---
 
-### [Testing Library](https://testing-library.com/)
+# [Testing Library](https://testing-library.com/)
 
 ---
-layout: section
+layout: default
 ---
 
-### [fast-check property based testing](https://github.com/dubzzz/fast-check)
+# [fast-check property based testing](https://github.com/dubzzz/fast-check)
 
 ---
-layout: section
+layout: default
 ---
 
-## Green IT - it's all about resources
+# Green IT - it's all about resources
 
 - less code
 - less memory
@@ -185,10 +184,10 @@ layout: section
 - Developers become more efficient & faster
 
 ---
-layout: section
+layout: default
 ---
 
-## Alternatives
+# Alternatives
 
 - [SolidStart](https://start.solidjs.com)
 - [NextJs](https://nextjs.org)
@@ -196,10 +195,10 @@ layout: section
 - [GatsbyJs](https://www.gatsbyjs.com/)
 
 ---
-layout: section
+layout: default
 ---
 
-## Credits
+# Credits
 
 - [SVELTE](https://svelte.dev/)
 - [SVELTEKIT](https://kit.svelte.dev/)
