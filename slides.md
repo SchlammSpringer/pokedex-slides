@@ -113,7 +113,8 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 
 <br />
 
-> The Svelte implementation of TodoMVC weighs 3.6kb zipped. For comparison, React plus ReactDOM without any app code
+> The Svelte implementation of TodoMVC weighs 3.6kb zipped. <br />
+> For comparison, React plus ReactDOM without any app code
 > weighs about 45kb zipped. <br /> 
 >It takes about 10x as long for the browser just to evaluate React as it does for Svelte to be
 > up and running with an interactive TodoMVC.
@@ -239,16 +240,17 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 - Developers become more efficient & faster
 
 ---
-layout: default
-background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
+layout: image-right
+image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # Alternatives
 
+- [NEXT.js](https://nextjs.org)
+- [Nuxt](https://nuxt.com/)
+- [RAILS](https://rubyonrails.org/)
+- [Remix](https://remix.run/)
 - [SolidStart](https://start.solidjs.com)
-- [NextJs](https://nextjs.org)
-- [NuxtJs](https://nuxtjs.org/)
-- [GatsbyJs](https://www.gatsbyjs.com/)
 
 ---
 layout: default
