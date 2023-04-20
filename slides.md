@@ -2,9 +2,12 @@
 theme: the-unnamed
 layout: cover
 highlighter: shiki
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
-# [SvelteKit](https://kit.svelte.dev/) the backend framework for svelte
+# [Svelte Kit](https://kit.svelte.dev/)
+
+Fullstack on steroids
 
 ---
 layout: default
@@ -21,11 +24,14 @@ cd my-skeleton-app
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # Svelte - a compiler not a framework
 
 > a React component is typically around 40% larger
+
+<br />
 
 > The Svelte implementation of TodoMVC weighs 3.6kb zipped. For comparison, React plus ReactDOM without any app code
 > weighs about 45kb zipped. It takes about 10x as long for the browser just to evaluate React as it does for Svelte to be
@@ -33,6 +39,7 @@ layout: default
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # Memory allocation in MBs ± 95% confidence interval - ([Krausest](https://github.com/krausest/js-framework-benchmark))
@@ -45,11 +52,15 @@ layout: default
 | geometric mean of all factors in the table | 1.39             | 1.90             | 2.46             | 2.55             |
 
 ---
-layout: default
+layout: center
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # The 'KIT' Part - fullstack by convention
 
+---
+layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # Project structure
@@ -81,6 +92,7 @@ my-project/
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # File types
@@ -90,43 +102,58 @@ layout: default
 - `+page.server.ts` Server side data load
 
 ---
-layout: default
+layout: cover
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
-# Backend with [Vercel](https://www.vercel.com) and [Supabase](https://supabase.com/)
+# [Vercel](https://www.vercel.com)
+Develop. Preview. Ship
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Incremental Static Regeneration](https://vercel.com/docs/concepts/incremental-static-regeneration/overview)
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Vercel Image Optimization](https://vercel.com/docs/concepts/image-optimization)
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Vercel Edge Network](https://vercel.com/docs/concepts/edge-network/overview)
 
 ---
+layout: cover
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
+---
+
+# [Supabase](https://supabase.com/)
+
+---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # Frontend with dynamic server side rendering (SSR)
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # State / routing with query params
@@ -135,42 +162,49 @@ layout: default
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Skeleton](https://www.skeleton.dev/) for nice UI
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # reactive searching / filtering for Pokemons
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Vitest](https://vitest.dev/)
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Vitest UI](https://vitest.dev/guide/ui.html)
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Testing Library](https://testing-library.com/)
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [fast-check property based testing](https://github.com/dubzzz/fast-check)
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # Green IT - it's all about resources
@@ -185,6 +219,7 @@ layout: default
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # Alternatives
@@ -196,6 +231,7 @@ layout: default
 
 ---
 layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # Credits
