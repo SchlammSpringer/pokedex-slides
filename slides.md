@@ -96,6 +96,15 @@ image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ?type
 
 ---
+layout: image-right
+image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
+---
+
+# Form actions
+
+Progressive enhancement
+
+---
 layout: cover
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
@@ -142,6 +151,13 @@ image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 the `$:` syntax
 
 ---
+layout: image-right
+image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
+---
+
+# Transitions & Animations
+
+---
 layout: cover
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
@@ -170,6 +186,10 @@ image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # [Testing Library](https://testing-library.com/)
+testing without all the implementation details
+
+- Tests only break when your app breaks, not implementation details
+- Framework Agnostic
 
 ---
 layout: image-right
@@ -268,8 +288,8 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 - [Why Svelte is more environmentally friendly](https://sustainablewww.org/principles/svelte-vs-react-vs-angular-why-svelte-is-more-environmental-friendly)
 - [Skeleton - The UI toolkit for Svelte and Tailwind.](https://www.skeleton.dev/)
 - [PokeAPI](https://pokeapi.co/)
-- [Youtube @Huntabyte](https://www.youtube.com/@Huntabyte)
-- [Youtube @jmagrippis](https://www.youtube.com/@jmagrippis)
+- [YouTube @Huntabyte](https://www.youtube.com/@Huntabyte)
+- [YouTube @jmagrippis](https://www.youtube.com/@jmagrippis)
 
 ---
 layout: end
