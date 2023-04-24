@@ -29,11 +29,12 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 ---
 
 # The 'KIT' Part
+
 client server by convention
 
 ---
-layout: default
-background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
+layout: image-right
+image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # Project structure
@@ -74,13 +75,12 @@ image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 - `+page.ts` Client side data load
 - `+page.server.ts` Server side data load
 
-
 ---
 layout: image-right
 image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
-# Frontend page types 
+# Frontend page types
 
 - Single Page Applicaiton (SPA) / Client-side rendering (CSR)
 - Dynamic server side rendering (SSR)
@@ -110,6 +110,7 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 ---
 
 # Svelte
+
 a compiler not a framework
 
 ---
@@ -124,9 +125,22 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 
 > The Svelte implementation of TodoMVC weighs 3.6kb zipped. <br />
 > For comparison, React plus ReactDOM without any app code
-> weighs about 45kb zipped. <br /> 
->It takes about 10x as long for the browser just to evaluate React as it does for Svelte to be
+> weighs about 45kb zipped. <br />
+> It takes about 10x as long for the browser just to evaluate React as it does for Svelte to be
 > up and running with an interactive TodoMVC.
+
+---
+layout: default
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
+---
+
+# 1 gigabyte of data ~ 0,478 kg CO2
+
+|                 | Angular         | React            | Svelte           |
+|-----------------|-----------------|------------------|------------------|
+| bundle size     | 180.3KB         | 6.3KB            | 3.8KB            |
+| CO2 per visit   | 0,0000828 grams | 0,00000287 grams | 0,00000175 grams |
+| 10,000 visitors | 0,82938 grams   | 0,02898 grams    | 0,01748 grams    |
 
 ---
 layout: default
@@ -148,6 +162,7 @@ image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # Reactive Statements
+
 the `$:` syntax
 
 ---
@@ -163,6 +178,7 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 ---
 
 # [Skeleton](https://www.skeleton.dev/)
+
 The UI toolkit for Svelte and Tailwind.
 
 ---
@@ -171,6 +187,7 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 ---
 
 # [Vitest](https://vitest.dev/)
+
 Blazing Fast Unit Test Framework
 
 ---
@@ -186,6 +203,7 @@ image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # [Testing Library](https://testing-library.com/)
+
 testing without all the implementation details
 
 - Tests only break when your app breaks, not implementation details
@@ -197,6 +215,7 @@ image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # [fast-check](https://github.com/dubzzz/fast-check)
+
 property based testing
 
 ---
@@ -205,6 +224,7 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 ---
 
 # [Vercel](https://www.vercel.com)
+
 Develop. Preview. Ship
 
 ---
@@ -241,13 +261,13 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 ---
 
 # [Supabase](https://supabase.com/)
+
 the open source Firebase alternative
 
 ---
 layout: default
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
-
 
 # Green IT - it's all about resources
 
@@ -257,7 +277,7 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 - smaller sites
 - better caches
 - less cpu
-- Developers become more efficient & faster
+- efficient & fast Developers 
 
 ---
 layout: image-right
