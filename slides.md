@@ -24,13 +24,19 @@ cd my-skeleton-app
 ```
 
 ---
-layout: cover
+layout: section
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
-# The 'KIT' Part
+# SvelteKit
 
-client server by convention
+<br />
+
+> a backend framework where Svelte is used as the view layer
+
+<br />
+
+> fundamentally ... a machine for turning a Request into a Response
 
 ---
 layout: image-right
@@ -114,10 +120,12 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 a compiler not a framework
 
 ---
-layout: section
-class: "text-left"
+layout: default
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
+# Impact
+
+<br /> 
 
 > a React component is typically around 40% larger
 
@@ -262,7 +270,8 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 
 # [Supabase](https://supabase.com/)
 
-the open source Firebase alternative
+the open source Firebase alternative<br/>
+cloud AND / OR self-hosted
 
 ---
 layout: default
