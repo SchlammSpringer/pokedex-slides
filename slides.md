@@ -120,9 +120,16 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 a compiler not a framework
 
 ---
+layout: image
+image: '/front_end_frameworks_experience_ranking.png'
+class: '!bg-contain'
+---
+
+---
 layout: default
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
+
 # Impact
 
 <br /> 
