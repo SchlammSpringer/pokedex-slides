@@ -296,17 +296,10 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 - efficient & fast Developers 
 
 ---
-layout: image-right
-image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
+layout: image
+image: '/rendering_frameworks_experience_ranking.png'
+class: '!bg-contain'
 ---
-
-# Alternatives
-
-- [NEXT.js](https://nextjs.org)
-- [Nuxt](https://nuxt.com/)
-- [RAILS](https://rubyonrails.org/)
-- [Remix](https://remix.run/)
-- [SolidStart](https://start.solidjs.com)
 
 ---
 layout: default
