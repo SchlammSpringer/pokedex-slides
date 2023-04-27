@@ -185,13 +185,6 @@ layout: image-right
 image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
-# Transitions & Animations
-
----
-layout: cover
-background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
----
-
 # [Skeleton](https://www.skeleton.dev/)
 
 The UI toolkit for Svelte and Tailwind.
@@ -206,11 +199,13 @@ background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8M
 Blazing Fast Unit Test Framework
 
 ---
-layout: default
+layout: cover
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Vitest UI](https://vitest.dev/guide/ui.html)
+
+Blazing Fast Test Driven Development
 
 ---
 layout: image-right
@@ -238,33 +233,48 @@ layout: cover
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
+# [Shared Validations / Models](https://superforms.vercel.app/)
+
+server-side validation and client-side display
+
+---
+layout: cover
+background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
+---
+
 # [Vercel](https://www.vercel.com)
 
 Develop. Preview. Ship
 
 ---
-layout: default
-background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
+layout: image-right
+image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # [Incremental Static Regeneration](https://vercel.com/docs/concepts/incremental-static-regeneration/overview)
 
+- Better Performance
+- Improved Security
+- Faster Builds
+
 ---
-layout: default
-background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
+layout: image-right
+image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # [Vercel Image Optimization](https://vercel.com/docs/concepts/image-optimization)
 
+> Media are responsible for 60% of websites’ weight. <br />So, in the end, their customers save 27% of data and as much CO2 on average.
+
 ---
-layout: default
+layout: cover
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
 # [Vercel Serverless Functions](https://vercel.com/docs/concepts/functions/serverless-functions)
 
 ---
-layout: default
+layout: cover
 background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
 ---
 
@@ -281,8 +291,8 @@ the open source Firebase alternative<br/>
 cloud AND / OR self-hosted
 
 ---
-layout: default
-background: 'https://unsplash.com/photos/uAfZBP-GtiA/download?ixid=MnwxMjA3fDB8MXxhbGx8fHx8fHx8fHwxNjgxOTcyOTk5&force=true&w=1920'
+layout: image-right
+image: 'https://unsplash.com/photos/TNacNuuEl1o/download?force=true&w=1920'
 ---
 
 # Green IT - it's all about resources
